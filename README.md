@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=matamvyshnavi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=matamvyshnavi&icon=0&color=cyan)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=matamvyshnavi&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

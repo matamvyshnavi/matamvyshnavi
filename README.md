@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 ##  About Me:
-​ I’m currently working on<br>​Enhancing my programming fundamentals.<br> I’m looking for help with<br>​Best practices in software development.<br> I’m currently learning<br>​Full Stack Java Development.<br>​I enjoy solving coding problems step-by-step.
+​ I’m currently working on<br>​Enhancing my programming fundamentals.<br> & I’m currently learning<br>​Full Stack Java Development.
 
 
 # 🌐 Socials:

@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 
 
 <!--
 **matamvyshnavi/matamvyshnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 💫 About Me:
+##  About Me:
 ​ I’m currently working on<br>​Enhancing my programming fundamentals.<br> I’m looking for help with<br>​Best practices in software development.<br> I’m currently learning<br>​Full Stack Java Development.<br>​I enjoy solving coding problems step-by-step.
 
 

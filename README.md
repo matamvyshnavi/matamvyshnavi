@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 
 
 ##  About Me:
-​ I’m currently working on<br>​Enhancing my programming fundamentals.<br> & I’m currently learning<br>​Full Stack Java Development.
-
+​ I’m currently working on<br>​Enhancing my programming fundamentals.
 
 # 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matamvyshnavi@gmail.com) 
